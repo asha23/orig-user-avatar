@@ -1,0 +1,14 @@
+{
+  "name": "asha23/orig-user-avatar",
+  "type": "wordpress-plugin",
+  "description": "Use any image from your WordPress Media Library as a custom user avatar.",
+  "keywords": ["wordpress", "plugin", "avatar"],
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Ash Whiting",
+      "email": "you@example.com"
+    }
+  ],
+  "require": {}
+}
